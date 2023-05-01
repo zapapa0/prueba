@@ -1,0 +1,1152 @@
+<!DOCTYPE html>
+<!-- saved from url=(0059)https://cas.gob.ar/juegos/sorteos/resultados?juego=quiniela -->
+<html lang="es" data-darkreader-mode="dynamic" data-darkreader-scheme="dark" class=" js no-touch csstransforms3d csstransitions video webkit chrome linux js" style="height: auto;"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><style class="darkreader darkreader--fallback" media="screen"></style><style class="darkreader darkreader--text" media="screen"></style><style class="darkreader darkreader--invert" media="screen">.jfk-bubble.gtx-bubble, .captcheck_answer_label > input + img, span#closed_text > img[src^="https://www.gstatic.com/images/branding/googlelogo"], span[data-href^="https://www.hcaptcha.com/"] > #icon, #bit-notification-bar-iframe, ::-webkit-calendar-picker-indicator {
+    filter: invert(100%) hue-rotate(180deg) contrast(95%) !important;
+}</style><style class="darkreader darkreader--inline" media="screen">[data-darkreader-inline-bgcolor] {
+  background-color: var(--darkreader-inline-bgcolor) !important;
+}
+[data-darkreader-inline-bgimage] {
+  background-image: var(--darkreader-inline-bgimage) !important;
+}
+[data-darkreader-inline-border] {
+  border-color: var(--darkreader-inline-border) !important;
+}
+[data-darkreader-inline-border-bottom] {
+  border-bottom-color: var(--darkreader-inline-border-bottom) !important;
+}
+[data-darkreader-inline-border-left] {
+  border-left-color: var(--darkreader-inline-border-left) !important;
+}
+[data-darkreader-inline-border-right] {
+  border-right-color: var(--darkreader-inline-border-right) !important;
+}
+[data-darkreader-inline-border-top] {
+  border-top-color: var(--darkreader-inline-border-top) !important;
+}
+[data-darkreader-inline-boxshadow] {
+  box-shadow: var(--darkreader-inline-boxshadow) !important;
+}
+[data-darkreader-inline-color] {
+  color: var(--darkreader-inline-color) !important;
+}
+[data-darkreader-inline-fill] {
+  fill: var(--darkreader-inline-fill) !important;
+}
+[data-darkreader-inline-stroke] {
+  stroke: var(--darkreader-inline-stroke) !important;
+}
+[data-darkreader-inline-outline] {
+  outline-color: var(--darkreader-inline-outline) !important;
+}
+[data-darkreader-inline-stopcolor] {
+  stop-color: var(--darkreader-inline-stopcolor) !important;
+}</style><style class="darkreader darkreader--variables" media="screen">:root {
+   --darkreader-neutral-background: #0e1011;
+   --darkreader-neutral-text: #dcd8d3;
+   --darkreader-selection-background: #004aac;
+   --darkreader-selection-text: #edebe8;
+}</style><style class="darkreader darkreader--root-vars" media="screen"></style><style class="darkreader darkreader--user-agent" media="screen">html {
+    background-color: #131516 !important;
+}
+html {
+    color-scheme: dark !important;
+}
+html, body {
+    background-color: #131516;
+}
+html, body {
+    border-color: #726a5c;
+    color: #edebe8;
+}
+a {
+    color: #2f92ff;
+}
+table {
+    border-color: #52595c;
+}
+::placeholder {
+    color: #b5ada3;
+}
+input:-webkit-autofill,
+textarea:-webkit-autofill,
+select:-webkit-autofill {
+    background-color: #3d4100 !important;
+    color: #edebe8 !important;
+}
+::-webkit-scrollbar {
+    background-color: #1b1e1f;
+    color: #ada69a;
+}
+::-webkit-scrollbar-thumb {
+    background-color: #42474a;
+}
+::-webkit-scrollbar-thumb:hover {
+    background-color: #555c61;
+}
+::-webkit-scrollbar-thumb:active {
+    background-color: #454c4f;
+}
+::-webkit-scrollbar-corner {
+    background-color: #131516;
+}
+::selection {
+    background-color: #004aac !important;
+    color: #edebe8 !important;
+}
+::-moz-selection {
+    background-color: #004aac !important;
+    color: #edebe8 !important;
+}</style>
+	
+	<title>CAS | Quiniela</title>
+	<meta name="keywords" content="HTML5,CSS3,Template">
+	<meta name="description" content="">
+
+	<!-- mobile settings -->
+	<meta name="viewport" content="width=device-width, maximum-scale=1, initial-scale=1, user-scalable=0">
+	<!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
+
+	<!-- WEB FONTS : use %7C instead of | (pipe) -->
+	<link href="./CAS _ Quiniela_files/css" rel="stylesheet" type="text/css">
+
+	<!-- CORE CSS -->
+	<link href="./CAS _ Quiniela_files/bootstrap.min.css" rel="stylesheet" type="text/css"><style class="darkreader darkreader--sync" media="screen"></style>
+
+	<!-- THEME CSS -->
+	<link href="./CAS _ Quiniela_files/essentials.css" rel="stylesheet" type="text/css"><style class="darkreader darkreader--sync" media="screen"></style>
+	<link href="./CAS _ Quiniela_files/layout.css" rel="stylesheet" type="text/css"><style class="darkreader darkreader--sync" media="screen"></style>
+
+	<!-- favicons -->
+	<link rel="shortcut icon" href="https://cas.gob.ar/favicon/android-icon-192x192.png">
+	<link rel="apple-touch-icon" sizes="57x57" href="https://cas.gob.ar/favicon/apple-icon-57x57.png">
+	<link rel="apple-touch-icon" sizes="60x60" href="https://cas.gob.ar/favicon/apple-icon-60x60.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="https://cas.gob.ar/favicon/apple-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="https://cas.gob.ar/favicon/apple-icon-76x76.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="https://cas.gob.ar/favicon/apple-icon-114x114.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="https://cas.gob.ar/favicon/apple-icon-120x120.png">
+	<link rel="apple-touch-icon" sizes="144x144" href="https://cas.gob.ar/favicon/apple-icon-144x144.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="https://cas.gob.ar/favicon/apple-icon-152x152.png">
+	<link rel="apple-touch-icon" sizes="180x180" href="https://cas.gob.ar/favicon/apple-icon-180x180.png">
+	<link rel="icon" type="image/png" sizes="192x192" href="https://cas.gob.ar/favicon/android-icon-192x192.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="https://cas.gob.ar/favicon/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="96x96" href="https://cas.gob.ar/favicon/favicon-96x96.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="https://cas.gob.ar/favicon/favicon-16x16.png">
+	<link rel="manifest" href="https://cas.gob.ar/favicon/manifest.json">
+	<meta name="msapplication-TileColor" content="#ffff7ff">
+	<meta name="msapplication-TileImage" content="/favicon/ms-icon-144x144.png">
+
+	<!-- PAGE LEVEL SCRIPTS -->
+	<link href="./CAS _ Quiniela_files/header-1.css" rel="stylesheet" type="text/css"><style class="darkreader darkreader--sync" media="screen"></style>
+	<link href="./CAS _ Quiniela_files/blue.css" rel="stylesheet" type="text/css" id="color_scheme"><style class="darkreader darkreader--sync" media="screen"></style>
+	<link href="./CAS _ Quiniela_files/subframework.css" rel="stylesheet" type="text/css"><style class="darkreader darkreader--sync" media="screen"></style>
+
+	<!-- REVOLUTION SLIDER -->
+	<link href="./CAS _ Quiniela_files/extralayers.css" rel="stylesheet" type="text/css"><style class="darkreader darkreader--sync" media="screen"></style>
+	<link href="./CAS _ Quiniela_files/settings.css" rel="stylesheet" type="text/css"><style class="darkreader darkreader--sync" media="screen"></style>
+
+	<!-- Analytics -->
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="./CAS _ Quiniela_files/js"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-G69J27424E');
+</script>
+	<!-- JAVASCRIPT FILES -->
+	<script type="text/javascript" src="./CAS _ Quiniela_files/jquery-2.1.4.min.js"></script>
+
+<meta name="darkreader" content="88e246f32d964596ad00c06746005e8e"><style class="darkreader darkreader--override" media="screen">.vimvixen-hint {
+    background-color: #7b5100 !important;
+    border-color: #dcb20d !important;
+    color: #f9edcc !important;
+}
+::placeholder {
+    opacity: 0.5 !important;
+}
+#edge-translate-panel-body,
+.MuiTypography-body1,
+.nfe-quote-text {
+    color: var(--darkreader-neutral-text) !important;
+}
+gr-main-header {
+    background-color: #0a3745 !important;
+}
+.tou-z65h9k,
+.tou-mignzq,
+.tou-1b6i2ox,
+.tou-lnqlqk {
+    background-color: var(--darkreader-neutral-background) !important;
+}
+.tou-75mvi {
+    background-color: #001b25 !important;
+}
+.tou-ta9e87,
+.tou-1w3fhi0,
+.tou-1b8t2us,
+.tou-py7lfi,
+.tou-1lpmd9d,
+.tou-1frrtv8,
+.tou-17ezmgn {
+    background-color: #040404 !important;
+}
+.tou-uknfeu {
+    background-color: #1e1000 !important;
+}
+.tou-6i3zyv {
+    background-color: #14556b !important;
+}
+embed[type="application/pdf"][src="about:blank"] { filter: invert(100%) contrast(90%); }</style></head>
+
+<!--
+		AVAILABLE BODY CLASSES:
+		
+		smoothscroll 			= create a browser smooth scroll
+		enable-animation		= enable WOW animations
+
+		bg-grey					= grey background
+		grain-grey				= grey grain background
+		grain-blue				= blue grain background
+		grain-green				= green grain background
+		grain-blue				= blue grain background
+		grain-orange			= orange grain background
+		grain-yellow			= yellow grain background
+		
+		boxed 					= boxed layout
+		pattern1 ... patern11	= pattern background
+		menu-vertical-hide		= hidden, open on click
+		
+		BACKGROUND IMAGE [together with .boxed class]
+		data-background="/assets/images/boxed_background/1.jpg"
+	-->
+
+<body class="smoothscroll enable-animation" style="padding-top: 61px;">
+
+	<div id="wrapper">
+
+		<div id="topBar">
+			<div class="container">
+
+				<!-- right -->
+				<ul class="top-links list-inline pull-right bg-info">
+					<li class="text-welcome"><a class="no-text-underline" href="https://app.cas.gob.ar/"><i class="fa fa-user hidden-xs"></i> Mi Agencia</a></li>
+				</ul>
+
+				<!-- left -->
+				<ul class="top-links list-inline hidden-xs">
+					<li class=""><a href="https://cas.gob.ar/juegos/sorteos/resultados?juego=quiniela">La Mejor Apuesta es Nuestra Gente</a></li>
+				</ul>
+
+			</div>
+		</div>
+
+		<div id="topBar" class="text-center padding-20">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12 col-xs-12">
+						<div style="max-width: 800px;">
+							<a class="" href="https://cas.gob.ar/">
+								<img style="padding-top:20px" class="img-responsive" src="./CAS _ Quiniela_files/supralogo.png" alt="">
+							</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div id="header" class="sticky header-sm clearfix fixed">
+
+<!-- TOP NAV -->
+<header id="topNav">
+    <div class="container">
+
+        <!-- Mobile Menu Button -->
+        <button class="btn btn-mobile" data-toggle="collapse" data-target=".nav-main-collapse">
+            <i class="fa fa-bars"></i>
+        </button>
+
+        <div class="navbar-collapse pull-left nav-main-collapse collapse">
+            <nav class="nav-main">
+
+                <ul id="topMain" class="nav nav-pills nav-main has-topBar">
+
+                    <li class="">
+                        <a href="https://cas.gob.ar/index">
+                            INICIO
+                        </a>
+                    </li>
+
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" href="https://cas.gob.ar/juegos/sorteos/resultados?juego=quiniela#">
+                            INSTITUCIONAL
+                        </a>
+                        <ul class="dropdown-menu pull-right has-topBar">
+                            <li><a href="https://cas.gob.ar/institucional/autoridades">Autoridades</a></li>
+                            <li><a href="https://cas.gob.ar/institucional/mision">Política / Misión / Visión</a></li>
+                            <li><a href="https://cas.gob.ar/institucional/certyprem">Certificaciones y Premios</a></li>
+                            <li><a href="https://cas.gob.ar/institucional/normativa">Normativa</a></li>
+                            <li><a href="https://cas.gob.ar/institucional/noticias">Noticias</a></li>
+                            <li><a href="https://cas.gob.ar/administracion/compras">Compras</a></li>
+                        </ul>
+                    </li>
+
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" href="https://cas.gob.ar/juegos/sorteos/resultados?juego=quiniela#">
+                            PRÉSTAMOS
+                        </a>
+                        <ul class="dropdown-menu pull-right has-topBar">
+                            <li><a href="https://cas.gob.ar/prestamos/lineas">Líneas y Requisitos</a></li>
+                            <li><a href="https://cas.gob.ar/prestamos/turnadocidi">Turnos</a></li>
+                            <li><a href="https://cas.gob.ar/info?uuid=ITiRhqZa">Contacto Préstamos</a></li>
+                            <li><a href="https://cas.gob.ar/prestamos/proveedores?tip=viv">Proveedores para Viviendas</a></li>
+                            <li><a href="https://cas.gob.ar/prestamos/proveedores?tip=rod">Proveedores para Rodados</a></li>
+                            <li><a href="http://old.cas.gob.ar/Entes/Login.aspx" target="_blank">Acceso a Entes</a></li>
+                        </ul>
+                    </li>
+
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" href="https://cas.gob.ar/juegos/sorteos/resultados?juego=quiniela#">
+                            JUEGOS
+                        </a>
+                        <ul class="dropdown-menu pull-right has-topBar">
+                            <li class="dropdown">
+                                <a class="dropdown-toggle" href="https://cas.gob.ar/juegos/sorteos/resultados?juego=quiniela#">Extractos</a>
+                                <ul class="dropdown-menu has-topBar">
+                                    <li><a href="https://cas.gob.ar/juegos/sorteos/resultados?juego=quiniela">Quiniela</a></li>
+                                    <li><a href="https://cas.gob.ar/juegos/sorteos/resultados?juego=fortunata">Fortunata</a></li>
+                                    <li><a href="https://cas.gob.ar/juegos/sorteos/resultados?juego=quini6">Quini6</a></li>
+                                    <li><a href="https://cas.gob.ar/juegos/sorteos/resultados?juego=brinco">Brinco</a></li>
+                                    <li><a href="https://cas.gob.ar/juegos/sorteos/resultados?juego=loto">Loto</a></li>
+                                    <li><a href="https://cas.gob.ar/juegos/sorteos/resultados?juego=telekino">Telekino</a></li>
+                                    <li><a href="https://cas.gob.ar/juegos/sorteos/resultados?juego=cordoba">Lotería de Córdoba</a></li>
+                                    <li><a href="https://cas.gob.ar/juegos/sorteos/resultados?juego=ciudad">Lotería de la Ciudad</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="https://cas.gob.ar/juegos/sorteos/suenos">Número de los Sueños</a></li>
+                            <li><a href="https://cas.gob.ar/juegos/sorteos/transmision">Sorteo en Vivo</a></li>
+                            <li><a href="https://app.cas.gob.ar/" target="_blank">Acceso a Agencias</a></li>
+                        </ul>
+                    </li>
+
+                    <li class="">
+                        <a href="https://cas.gob.ar/juegos/autoexclusion/">
+                            JUEGO RESPONSABLE
+                        </a>
+                    </li>
+
+                    <li class="">
+                        <a href="https://cas.gob.ar/tramites/guia">
+                            GUÍA DE TRÁMITES
+                        </a>
+                    </li>
+
+                    <li>
+                        <a href="https://cas.gob.ar/contacto">
+                            CONTACTO
+                        </a>
+                    </li>
+
+
+                </ul>
+
+            </nav>
+        </div>
+
+    </div>
+</header>
+<!-- /Top Nav -->
+
+</div>
+<style>
+    .izquierda {
+        float: left;
+    }
+
+    .derecha {
+        float: right;
+    }
+
+    .juego {
+        text-align: center;
+        margin-top: -60px;
+        margin-bottom: 20px;
+    }
+
+    .ficha {
+        background-color: #3EA3DC;
+        padding: 5px;
+        border-radius: 5px;
+    }
+
+    .ficha-titulo {
+        background-color: #006DA2;
+        font-weight: bold;
+        font-size: 18px;
+        padding: 10px;
+        text-align: center;
+        color: white;
+        border-top-left-radius: 5px;
+        border-top-right-radius: 5px;
+    }
+
+    .ficha-destacados {
+        background-color: white;
+        display: inline-block;
+        width: 100%;
+    }
+
+    .destacados-columna {
+        display: inline-block;
+        width: 20%;
+        margin-right: -4px;
+        color: white;
+    }
+
+    .destacados-columna-6 {
+        display: inline-block;
+        width: 16%;
+        color: white;
+    }
+
+    .destacados-columna-4 {
+        display: inline-block;
+        width: 24%;
+        color: white;
+        border-radius: 5px;
+    }
+
+    .destacados-subcolumna {
+        background-color: orange;
+        margin: 5px;
+        padding: 5px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        border-radius: 5px;
+        text-align: center;
+    }
+
+    .destacados-premio {
+        display: inline-block;
+    }
+
+    .destacados-numero {
+        display: inline-block;
+        text-align: center;
+        font-weight: bold;
+        font-size: 20px;
+    }
+
+
+    .ficha-normales {
+        background-color: whitesmoke;
+        border-bottom-left-radius: 5px;
+        border-bottom-right-radius: 5px;
+
+    }
+
+    .normales-columna {
+        display: inline-block;
+        width: 20%;
+        margin-right: -4px;
+    }
+
+    .normales-subcolumna {
+        background-color: #FFCD71;
+        margin: 5px;
+        text-align: center;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        color: #515151;
+        border-radius: 5px;
+    }
+
+    .espaciador {
+        padding: 10px;
+    }
+</style><style class="darkreader darkreader--sync" media="screen"></style>
+
+<section class="page-header page-header-xs">
+    <div class="container">
+        <h1>Resultados</h1>
+        <ol class="breadcrumb">
+            <li><a href="https://cas.gob.ar/">Inicio</a></li>
+            <li><a href="https://cas.gob.ar/juegos">Juegos</a></li>
+            <li><a href="https://cas.gob.ar/juegos/sorteos">Sorteos</a></li>
+            <li class="active">Resultados</li>
+        </ol>
+
+    </div>
+</section>
+
+<section id="quiniela" class="">
+
+    <div class="container">
+
+        <div class="juego">
+            <a href="https://cas.gob.ar/juegos/sorteos/resultados?juego=quiniela#" target="_blank">
+                <img src="./CAS _ Quiniela_files/logo_quiniela.png" class="img-responsive" alt="company logo">
+            </a>
+        </div>
+
+        <div class="row">
+
+            <div class="col-md-3 col-sm-3">
+            </div>
+
+            <div class="col-md-6 col-sm-6">
+
+                <!-- quiniela vespertino -->
+
+    <div class="ficha">
+
+        <div class="ficha-titulo">
+            <span class="izquierda"><span class="hidden-xs">Quiniela Vespertino</span> Sorteo 6352</span>
+            &nbsp;
+            <span class="derecha">29/04/2023</span>
+        </div>
+
+        <div class="ficha-destacados">
+                            <div class="destacados-columna">
+                    <div class="destacados-subcolumna">
+                        <div class="destacados-premio">1°</div>
+                        <div class="destacados-numero">5497</div>
+                    </div>
+                </div>
+                            <div class="destacados-columna">
+                    <div class="destacados-subcolumna">
+                        <div class="destacados-premio">2°</div>
+                        <div class="destacados-numero">3911</div>
+                    </div>
+                </div>
+                            <div class="destacados-columna">
+                    <div class="destacados-subcolumna">
+                        <div class="destacados-premio">3°</div>
+                        <div class="destacados-numero">8768</div>
+                    </div>
+                </div>
+                            <div class="destacados-columna">
+                    <div class="destacados-subcolumna">
+                        <div class="destacados-premio">4°</div>
+                        <div class="destacados-numero">1850</div>
+                    </div>
+                </div>
+                            <div class="destacados-columna">
+                    <div class="destacados-subcolumna">
+                        <div class="destacados-premio">5°</div>
+                        <div class="destacados-numero">0405</div>
+                    </div>
+                </div>
+                            <div class="destacados-columna">
+                    <div class="destacados-subcolumna">
+                        <div class="destacados-premio">6°</div>
+                        <div class="destacados-numero">7121</div>
+                    </div>
+                </div>
+                            <div class="destacados-columna">
+                    <div class="destacados-subcolumna">
+                        <div class="destacados-premio">7°</div>
+                        <div class="destacados-numero">4879</div>
+                    </div>
+                </div>
+                            <div class="destacados-columna">
+                    <div class="destacados-subcolumna">
+                        <div class="destacados-premio">8°</div>
+                        <div class="destacados-numero">0071</div>
+                    </div>
+                </div>
+                            <div class="destacados-columna">
+                    <div class="destacados-subcolumna">
+                        <div class="destacados-premio">9°</div>
+                        <div class="destacados-numero">7101</div>
+                    </div>
+                </div>
+                            <div class="destacados-columna">
+                    <div class="destacados-subcolumna">
+                        <div class="destacados-premio">10°</div>
+                        <div class="destacados-numero">7590</div>
+                    </div>
+                </div>
+                    </div>
+
+        <div class="ficha-normales">
+                            <div class="normales-columna">
+                    <div class="normales-subcolumna">
+                        <span>11°</span>
+                        <span><b>4671</b></span>
+
+                    </div>
+                </div>
+                            <div class="normales-columna">
+                    <div class="normales-subcolumna">
+                        <span>12°</span>
+                        <span><b>7986</b></span>
+
+                    </div>
+                </div>
+                            <div class="normales-columna">
+                    <div class="normales-subcolumna">
+                        <span>13°</span>
+                        <span><b>6930</b></span>
+
+                    </div>
+                </div>
+                            <div class="normales-columna">
+                    <div class="normales-subcolumna">
+                        <span>14°</span>
+                        <span><b>2993</b></span>
+
+                    </div>
+                </div>
+                            <div class="normales-columna">
+                    <div class="normales-subcolumna">
+                        <span>15°</span>
+                        <span><b>7507</b></span>
+
+                    </div>
+                </div>
+                            <div class="normales-columna">
+                    <div class="normales-subcolumna">
+                        <span>16°</span>
+                        <span><b>4629</b></span>
+
+                    </div>
+                </div>
+                            <div class="normales-columna">
+                    <div class="normales-subcolumna">
+                        <span>17°</span>
+                        <span><b>9239</b></span>
+
+                    </div>
+                </div>
+                            <div class="normales-columna">
+                    <div class="normales-subcolumna">
+                        <span>18°</span>
+                        <span><b>2959</b></span>
+
+                    </div>
+                </div>
+                            <div class="normales-columna">
+                    <div class="normales-subcolumna">
+                        <span>19°</span>
+                        <span><b>7689</b></span>
+
+                    </div>
+                </div>
+                            <div class="normales-columna">
+                    <div class="normales-subcolumna">
+                        <span>20°</span>
+                        <span><b>5611</b></span>
+
+                    </div>
+                </div>
+                    </div>
+
+    </div>
+    
+<div class="divider divider-center">
+    <i class="fa fa-chevron-down"></i>
+</div>
+
+<!-- quiniela tarde -->
+
+
+<div class="ficha">
+
+    <div class="ficha-titulo">
+        <span class="izquierda"><span class="hidden-xs">Quiniela Tarde</span> Sorteo 2422</span>
+        &nbsp;
+        <span class="derecha">29/04/2023</span>
+    </div>
+
+    <div class="ficha-destacados">
+                    <div class="destacados-columna">
+                <div class="destacados-subcolumna">
+                    <div class="destacados-premio">1°</div>
+                    <div class="destacados-numero">5801</div>
+                </div>
+            </div>
+                    <div class="destacados-columna">
+                <div class="destacados-subcolumna">
+                    <div class="destacados-premio">2°</div>
+                    <div class="destacados-numero">8579</div>
+                </div>
+            </div>
+                    <div class="destacados-columna">
+                <div class="destacados-subcolumna">
+                    <div class="destacados-premio">3°</div>
+                    <div class="destacados-numero">0966</div>
+                </div>
+            </div>
+                    <div class="destacados-columna">
+                <div class="destacados-subcolumna">
+                    <div class="destacados-premio">4°</div>
+                    <div class="destacados-numero">2810</div>
+                </div>
+            </div>
+                    <div class="destacados-columna">
+                <div class="destacados-subcolumna">
+                    <div class="destacados-premio">5°</div>
+                    <div class="destacados-numero">6218</div>
+                </div>
+            </div>
+                    <div class="destacados-columna">
+                <div class="destacados-subcolumna">
+                    <div class="destacados-premio">6°</div>
+                    <div class="destacados-numero">2156</div>
+                </div>
+            </div>
+                    <div class="destacados-columna">
+                <div class="destacados-subcolumna">
+                    <div class="destacados-premio">7°</div>
+                    <div class="destacados-numero">1446</div>
+                </div>
+            </div>
+                    <div class="destacados-columna">
+                <div class="destacados-subcolumna">
+                    <div class="destacados-premio">8°</div>
+                    <div class="destacados-numero">0811</div>
+                </div>
+            </div>
+                    <div class="destacados-columna">
+                <div class="destacados-subcolumna">
+                    <div class="destacados-premio">9°</div>
+                    <div class="destacados-numero">5698</div>
+                </div>
+            </div>
+                    <div class="destacados-columna">
+                <div class="destacados-subcolumna">
+                    <div class="destacados-premio">10°</div>
+                    <div class="destacados-numero">5926</div>
+                </div>
+            </div>
+            </div>
+
+    <div class="ficha-normales">
+                    <div class="normales-columna">
+                <div class="normales-subcolumna">
+                    <span>11°</span>
+                    <span><b>6918</b></span>
+
+                </div>
+            </div>
+                    <div class="normales-columna">
+                <div class="normales-subcolumna">
+                    <span>12°</span>
+                    <span><b>0766</b></span>
+
+                </div>
+            </div>
+                    <div class="normales-columna">
+                <div class="normales-subcolumna">
+                    <span>13°</span>
+                    <span><b>2406</b></span>
+
+                </div>
+            </div>
+                    <div class="normales-columna">
+                <div class="normales-subcolumna">
+                    <span>14°</span>
+                    <span><b>8199</b></span>
+
+                </div>
+            </div>
+                    <div class="normales-columna">
+                <div class="normales-subcolumna">
+                    <span>15°</span>
+                    <span><b>1342</b></span>
+
+                </div>
+            </div>
+                    <div class="normales-columna">
+                <div class="normales-subcolumna">
+                    <span>16°</span>
+                    <span><b>5796</b></span>
+
+                </div>
+            </div>
+                    <div class="normales-columna">
+                <div class="normales-subcolumna">
+                    <span>17°</span>
+                    <span><b>6302</b></span>
+
+                </div>
+            </div>
+                    <div class="normales-columna">
+                <div class="normales-subcolumna">
+                    <span>18°</span>
+                    <span><b>7598</b></span>
+
+                </div>
+            </div>
+                    <div class="normales-columna">
+                <div class="normales-subcolumna">
+                    <span>19°</span>
+                    <span><b>4264</b></span>
+
+                </div>
+            </div>
+                    <div class="normales-columna">
+                <div class="normales-subcolumna">
+                    <span>20°</span>
+                    <span><b>6636</b></span>
+
+                </div>
+            </div>
+            </div>
+
+</div>
+
+<div class="divider divider-center">
+    <i class="fa fa-chevron-down"></i>
+</div>
+
+<!-- quiniela nocturno -->
+
+
+    <div class="ficha">
+
+        <div class="ficha-titulo">
+            <span class="izquierda"><span class="hidden-xs">Quiniela Nocturno</span> Sorteo 13004</span>
+            &nbsp;
+            <span class="derecha">29/04/2023</span>
+        </div>
+
+        <div class="ficha-destacados">
+                            <div class="destacados-columna">
+                    <div class="destacados-subcolumna">
+                        <div class="destacados-premio">1°</div>
+                        <div class="destacados-numero">8615</div>
+                    </div>
+                </div>
+                            <div class="destacados-columna">
+                    <div class="destacados-subcolumna">
+                        <div class="destacados-premio">2°</div>
+                        <div class="destacados-numero">6816</div>
+                    </div>
+                </div>
+                            <div class="destacados-columna">
+                    <div class="destacados-subcolumna">
+                        <div class="destacados-premio">3°</div>
+                        <div class="destacados-numero">5305</div>
+                    </div>
+                </div>
+                            <div class="destacados-columna">
+                    <div class="destacados-subcolumna">
+                        <div class="destacados-premio">4°</div>
+                        <div class="destacados-numero">9134</div>
+                    </div>
+                </div>
+                            <div class="destacados-columna">
+                    <div class="destacados-subcolumna">
+                        <div class="destacados-premio">5°</div>
+                        <div class="destacados-numero">0477</div>
+                    </div>
+                </div>
+                            <div class="destacados-columna">
+                    <div class="destacados-subcolumna">
+                        <div class="destacados-premio">6°</div>
+                        <div class="destacados-numero">1116</div>
+                    </div>
+                </div>
+                            <div class="destacados-columna">
+                    <div class="destacados-subcolumna">
+                        <div class="destacados-premio">7°</div>
+                        <div class="destacados-numero">7962</div>
+                    </div>
+                </div>
+                            <div class="destacados-columna">
+                    <div class="destacados-subcolumna">
+                        <div class="destacados-premio">8°</div>
+                        <div class="destacados-numero">5331</div>
+                    </div>
+                </div>
+                            <div class="destacados-columna">
+                    <div class="destacados-subcolumna">
+                        <div class="destacados-premio">9°</div>
+                        <div class="destacados-numero">6734</div>
+                    </div>
+                </div>
+                            <div class="destacados-columna">
+                    <div class="destacados-subcolumna">
+                        <div class="destacados-premio">10°</div>
+                        <div class="destacados-numero">3296</div>
+                    </div>
+                </div>
+                    </div>
+
+        <div class="ficha-normales">
+                            <div class="normales-columna">
+                    <div class="normales-subcolumna">
+                        <span>11°</span>
+                        <span><b>3465</b></span>
+
+                    </div>
+                </div>
+                            <div class="normales-columna">
+                    <div class="normales-subcolumna">
+                        <span>12°</span>
+                        <span><b>0961</b></span>
+
+                    </div>
+                </div>
+                            <div class="normales-columna">
+                    <div class="normales-subcolumna">
+                        <span>13°</span>
+                        <span><b>0975</b></span>
+
+                    </div>
+                </div>
+                            <div class="normales-columna">
+                    <div class="normales-subcolumna">
+                        <span>14°</span>
+                        <span><b>8733</b></span>
+
+                    </div>
+                </div>
+                            <div class="normales-columna">
+                    <div class="normales-subcolumna">
+                        <span>15°</span>
+                        <span><b>2411</b></span>
+
+                    </div>
+                </div>
+                            <div class="normales-columna">
+                    <div class="normales-subcolumna">
+                        <span>16°</span>
+                        <span><b>5352</b></span>
+
+                    </div>
+                </div>
+                            <div class="normales-columna">
+                    <div class="normales-subcolumna">
+                        <span>17°</span>
+                        <span><b>0545</b></span>
+
+                    </div>
+                </div>
+                            <div class="normales-columna">
+                    <div class="normales-subcolumna">
+                        <span>18°</span>
+                        <span><b>9034</b></span>
+
+                    </div>
+                </div>
+                            <div class="normales-columna">
+                    <div class="normales-subcolumna">
+                        <span>19°</span>
+                        <span><b>4244</b></span>
+
+                    </div>
+                </div>
+                            <div class="normales-columna">
+                    <div class="normales-subcolumna">
+                        <span>20°</span>
+                        <span><b>6460</b></span>
+
+                    </div>
+                </div>
+                    </div>
+
+    </div>
+
+            </div>
+
+            <div class="col-md-3 col-sm-3">
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+<!-- FOOTER -->
+<footer id="footer">
+	<div class="container">
+
+		<div class="row">
+
+			<div class="col-md-4">
+				<!-- Footer Logo -->
+				<img class="footer-logo" src="./CAS _ Quiniela_files/logo_foot.png" alt="">
+				<img class="footer-logo" src="./CAS _ Quiniela_files/logo_subfoot.png" alt="">
+
+				<!-- Contact Address -->
+				<address>
+					<ul class="list-unstyled">
+						<li>
+							<a href="phone:2644223815" target="_blank"><i class="fa fa-phone fa-lg" aria-hidden="true"></i>
+								&nbsp; Teléfono CAS: (+54) 264-4223815</a>
+							<br>
+						</li>
+						<li>
+							<a href="phone:2644223284" target="_blank"><i class="fa fa-phone fa-lg" aria-hidden="true"></i>
+								&nbsp; Teléfono Préstamos: (+54) 264-4223284</a>
+							<br>
+						</li>
+						<li>
+							<a href="https://api.whatsapp.com/send?phone=5492645866294&amp;text=Hola%20CAS.%20Quisiera%20que%20me%20llamen." target="_blank"><i class="fa fa-whatsapp fa-lg" aria-hidden="true"></i>
+								&nbsp; WhatsApp Juegos: +549-264-5866294</a>
+							<br>
+						</li>
+						<li>
+							<a href="https://api.whatsapp.com/send?phone=5492645866296&amp;text=Hola%20CAS.%20Quisiera%20que%20me%20llamen." target="_blank"><i class="fa fa-whatsapp fa-lg" aria-hidden="true"></i>
+								&nbsp; WhatsApp Préstamos: +549-264-5866296</a>
+							<br>
+						</li>
+						<li>
+							<a href="mailto:prestamospersonales@cas.gob.ar?subject=Hola%20CAS" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i>
+								&nbsp; Correo: prestamospersonales@cas.gob.ar</a>
+							<br>
+						</li>
+						<li>
+							<a href="mailto:quejasysugerencias@cas.gob.ar" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i>
+								&nbsp; Correo: quejasysugerencias@cas.gob.ar</a>
+							<br>
+						</li>
+					</ul>
+				</address>
+				<!-- /Contact Address -->
+
+			</div>
+
+			<div class="col-md-5">
+				<a href="https://cas.gob.ar/institucional/certyprem">
+				<img class="img-responsive" style="padding-right: 50px; padding-top:10px;" src="./CAS _ Quiniela_files/calidad.png" alt="">
+				</a>
+			</div>
+
+			<div class="col-md-3">
+
+				<!-- Links -->
+				<h4 class="letter-spacing-1">EXPLORA</h4>
+				<ul class="footer-links list-unstyled">
+					<li><a href="https://cas.gob.ar/">Inicio</a></li>
+					<li><a href="https://cas.gob.ar/juegos/sorteos/resultados?juego=quiniela">Extracto Quiniela</a></li>
+					<li><a href="https://cas.gob.ar/prestamos/turnadocidi">Obtener turno</a></li>
+					<li><a href="https://cas.gob.ar/institucional/noticias">Noticias</a></li>
+					<li><a href="https://cas.gob.ar/contacto">Contacto</a></li>
+				</ul>
+
+				<div class="margin-top-20">
+
+					<a href="https://api.whatsapp.com/send?phone=5492645866294&amp;text=Hola%20CAS" class="social-icon social-icon-border social-evernote pull-left" data-toggle="tooltip" data-placement="top" target="_blank" title="" data-original-title="WhatsApp">
+						<i class="fa fa-whatsapp" aria-hidden="true"></i>
+					</a>
+
+					<a href="https://www.cas.gob.ar/facebook" target="_blank" class="social-icon social-icon-border social-facebook pull-left" data-toggle="tooltip" data-placement="top" title="" data-original-title="Facebook">
+						<i class="fa fa-facebook" aria-hidden="true" style="margin-top:7px;"></i>
+					</a>
+
+					<a href="https://www.cas.gob.ar/instagram" target="_blank" class="social-icon social-icon-border social-instagram pull-left" data-toggle="tooltip" data-placement="top" title="" data-original-title="Instagram">
+						<i class="fa fa-instagram" aria-hidden="true" style="margin-top:7px;"></i>
+					</a>
+
+					<a href="https://www.cas.gob.ar/youtube" target="_blank" class="social-icon social-icon-border social-youtube pull-left" data-toggle="tooltip" data-placement="top" title="" data-original-title="YouTube">
+						<i class="fa fa-youtube" aria-hidden="true" style="margin-top:6px;"></i>
+					</a>
+
+
+				</div>
+				<!-- /Links -->
+
+			</div>
+
+			<!--
+			<div class="col-md-4">
+				
+			<h4 class="letter-spacing-1">INFORMATE</h4>
+			<p>Recibe novedades sobre las funciones de tu equipo</p>
+
+			<form class="validate" action="php/newsletter.php" method="post" data-success="Subscribed! Thank you!" data-toastr-position="bottom-right">
+				<div class="input-group">
+					<span class="input-group-addon"><i class="fa fa-envelope"></i></span>
+					<input type="email" id="email" name="email" class="form-control required" placeholder="Ingresa tu correo" readonly>
+					<span class="input-group-btn">
+						<button class="btn btn-success" type="submit" disabled>Registro</button>
+					</span>
+				</div>
+			</form>
+				
+			<div class="margin-top-20">
+
+				<a href="tel:1165277255" class="social-icon social-icon-border social-twitter pull-left" data-toggle="tooltip" data-placement="top" target="_blank" title="Teléfono">
+					<i class="fa fa-phone" aria-hidden="true"></i>
+				</a>
+
+				<a href="https://api.whatsapp.com/send?phone=5491165277255&text=Hola CAS. Quisiera que me llamen." class="social-icon social-icon-border social-twitter pull-left" data-toggle="tooltip" data-placement="top" target="_blank" title="WhatsApp">
+					<i class="fa fa-whatsapp" aria-hidden="true"></i>
+				</a>
+
+				<a href="sms:1165277255?body=Hola CAS. Quisiera que me llamen." class="social-icon social-icon-border social-youtube pull-left" data-toggle="tooltip" data-placement="top" target="_blank" title="SMS">
+					<i class="fa fa-comment" aria-hidden="true" style="margin-top:3px;"></i>
+				</a>
+
+				<a href="mailto:info@cas.gob.ar?subject=Hola CAS. Quisiera que me llamen." class="social-icon social-icon-border social-youtube pull-left" data-toggle="tooltip" data-placement="top" target="_blank" title="E-mail">
+					<i class="fa fa-envelope" aria-hidden="true"></i>
+				</a>
+
+				<a href="https://www.youtube.com/channel/UCpVzUDKOGAegYY2rL5jh56g" class="social-icon social-icon-border social-youtube pull-left" data-toggle="tooltip" data-placement="top" target="_blank" title="YouTube">
+					<i class="fa fa-youtube" aria-hidden="true"></i>
+				</a>
+
+				<a href="https://www.facebook.com/CAS-115831003880460" class="social-icon social-icon-border social-facebook pull-left" data-toggle="tooltip" data-placement="top" target="_blank" title="Facebook">
+					<i class="fa fa-facebook" aria-hidden="true"></i>
+				</a>
+
+			</div>
+			
+
+		</div>
+		-->
+
+		</div>
+
+	</div>
+
+	<div class="copyright">
+		<div class="container">
+			CAS © Todos los derechos reservados
+		</div>
+	</div>
+</footer>
+<!-- /FOOTER -->
+
+</div>
+<!-- /wrapper -->
+
+<!-- SCROLL TO TOP -->
+<a href="https://cas.gob.ar/juegos/sorteos/resultados?juego=quiniela#" id="toTop" style="display: inline;"></a>
+
+<!-- JAVASCRIPT FILES -->
+<script type="text/javascript">
+	var plugin_path = '/assets/plugins/';
+</script>
+<script type="text/javascript" src="./CAS _ Quiniela_files/jquery-2.1.4.min.js"></script>
+
+<script type="text/javascript" src="./CAS _ Quiniela_files/scripts.js"></script>
+
+<!-- REVOLUTION SLIDER -->
+<script type="text/javascript" src="./CAS _ Quiniela_files/jquery.themepunch.tools.min.js"></script>
+<script type="text/javascript" src="./CAS _ Quiniela_files/jquery.themepunch.revolution.min.js"></script>
+<script type="text/javascript" src="./CAS _ Quiniela_files/demo.revolution_slider.js"></script>
+
+<!-- PAGELEVEL SCRIPTS -->
+<script type="text/javascript" src="./CAS _ Quiniela_files/contact.js"></script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="./CAS _ Quiniela_files/js(1)"></script>
+<script>
+	window.dataLayer = window.dataLayer || [];
+
+	function gtag() {
+		dataLayer.push(arguments);
+	}
+	gtag('js', new Date());
+
+	gtag('config', 'UA-158885374-1');
+</script>
+
+
+
+<script type="text/javascript" src="./CAS _ Quiniela_files/bootstrap.min.js"></script><script type="text/javascript" src="./CAS _ Quiniela_files/smoothscroll.js"></script></body></html>
